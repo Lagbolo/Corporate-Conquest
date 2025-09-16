@@ -1,4 +1,4 @@
-#CORPORATE CONQUEST
+# CORPORATE CONQUEST
 
 Computer programming 12 collaborative final project. Credit to CrimsonBlade for working on this with me a couple of years ago.
 
